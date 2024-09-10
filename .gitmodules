@@ -1,0 +1,6 @@
+[submodule "cardapio-digital-backend"]
+	path = cardapio-digital-backend
+	url = git@github.com:vvc-git/cardapio-digital-backend.git
+[submodule "cardapio-digital-frontend"]
+	path = cardapio-digital-frontend
+	url = git@github.com:vvc-git/cardapio-digital-frontend.git
