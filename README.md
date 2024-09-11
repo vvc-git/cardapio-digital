@@ -11,11 +11,6 @@ Este projeto é um protótipo de um **Cardápio Digital**, composto por duas par
 - **TypeScript** para a tipagem estática e melhorias no desenvolvimento.
 - **React Query** para o gerenciamento de estados assíncronos.
 
-<h2 align="center">
-    <img src="./public/home.png" width="300"/>
-    <img src="./public/modal.png" width="300"/>
-</h2>
-
 ### 💻 Requisitos
 Antes de começar, certifique-se de ter instalado:
 - **Node.js** 
@@ -64,14 +59,9 @@ Para rodar esse projeto, você precisa ter o **Java** instalado em sua máquina.
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/fernandakipper/crud-java-back
+    git clone git@github.com:vvc-git/cardapio-digital-backend.git
     cd crud-java-back
     ```
 
 2. Abra o projeto no **IntelliJ IDEA** e instale as dependências com o **Maven**.
-
-    <img width="300px" src="./.github/instalar-deps.png">
-
 3. Navegue até o arquivo da classe `CardapioApplication` para executar o projeto.
-
-    <img width="300px" src="./.github/executar.png">
